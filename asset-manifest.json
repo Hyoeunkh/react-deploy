@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/react-deploy/static/css/main.689b7bff.css",
-    "main.js": "/react-deploy/static/js/main.72ffc293.js",
+    "main.js": "/react-deploy/static/js/main.22c823d4.js",
     "static/js/984.d704d599.chunk.js": "/react-deploy/static/js/984.d704d599.chunk.js",
     "static/js/689.18292b6a.chunk.js": "/react-deploy/static/js/689.18292b6a.chunk.js",
     "static/media/kakao_logo.svg": "/react-deploy/static/media/kakao_logo.60e99555125ae4c4b8f23f6c5faee9ec.svg",
     "index.html": "/react-deploy/index.html",
     "main.689b7bff.css.map": "/react-deploy/static/css/main.689b7bff.css.map",
-    "main.72ffc293.js.map": "/react-deploy/static/js/main.72ffc293.js.map",
+    "main.22c823d4.js.map": "/react-deploy/static/js/main.22c823d4.js.map",
     "984.d704d599.chunk.js.map": "/react-deploy/static/js/984.d704d599.chunk.js.map",
     "689.18292b6a.chunk.js.map": "/react-deploy/static/js/689.18292b6a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.689b7bff.css",
-    "static/js/main.72ffc293.js"
+    "static/js/main.22c823d4.js"
   ]
 }
